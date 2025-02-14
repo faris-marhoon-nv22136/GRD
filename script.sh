@@ -2,7 +2,7 @@
 
 # ===========================
 # Network Security Analysis Tool
-# Author: Your Name
+# Author: FARIS AHMED 
 # Description: A tool to perform network scanning, vulnerability analysis, and threat prediction.
 # ===========================
 
